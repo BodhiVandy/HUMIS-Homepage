@@ -1,1 +1,2 @@
-# HUMIS-Homepage
+# About This Project
+Working in HTML and CSS has helped me develop empathy and an understanding of coding and web design. It takes time and effort to put a website together. This is something many designers like myself tend to brush over. We are often so focused on the end goal that we forget about the fine details, which cannot be neglected in a field such as this. With regards to coding, the details are everything. One misspelled word or misplaced tag will completely alter the project's outcome. Every line must be combed over time and time again. It is a meticulous labor of love and a valuable tool in design. 
